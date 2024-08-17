@@ -1,0 +1,18 @@
+**Response to Reviewer dg5Y:**
+
+Thank you for your detailed and thoughtful review of our paper. We greatly appreciate the time and effort you invested in providing feedback. Your insights have been invaluable in helping us refine our work, and we have made several revisions to address the points you raised. Below, we provide a detailed response to each of your comments.
+
+1.**Availability of Data, Code, and Instructions:** We appreciate the reviewer’s observation regarding the availability of data, code, and instructions on the GitHub page. We acknowledge that these resources were not initially available, but the GitHub repository has since been updated to include all necessary data, code, and instructions for reproducing the main experimental results. Additionally, the main paper has been updated to reflect these changes and now provides accurate, functional links directly in the text rather than relying on the supplementary material.
+
+2.**Length of Introduction/Background Section:** Thank you for your feedback on the length of the introduction and background sections. While these sections are designed to motivate the work, we recognize the importance of balancing this with a focus on the results and dataset details. The introduction has been streamlined to reduce its length, and more space in the main paper has been allocated for discussing the results and the dataset's organization. This helps maintain the focus on the key contributions of the paper.
+
+3.**Clarity of Experiments:** We appreciate the reviewer’s comment on the clarity of the experimental section. The section has been revised to improve clarity, with each experiment described in a step-by-step manner. Additional explanations and visual aids have also been provided where necessary to make the experimental process easier to follow. These revisions help ensure that the contributions and findings of the experiments are clearly understood by all readers.
+
+4.**Integration of Supplemental Information into the Main Paper:** We acknowledge the suggestion to move some of the valuable information from the supplemental material into the main paper. Key details on dataset organization, limitations, and ethical considerations have been incorporated directly into the main text. This ensures that readers have access to all critical information without needing to refer to the supplement, thereby enhancing the comprehensiveness of the paper.
+
+5.**Correctness of Dataset Construction:** We appreciate the reviewer’s recognition of the sound construction of the dataset and the tangible improvements made over the existing CoralNet dataset. We have taken great care to ensure that the dataset is curated and organized in a way that makes it highly usable for ML/AI applications. The feedback from other reviewers will also be considered to further clarify and enhance the presentation of our experiments.
+
+6.**Documentation and Usable URLs:** Thank you for noting the quality of the documentation. We agree that usable URLs should be accessible directly in the main paper. We have moved all essential links from the supplemental material to the main text and verified that they are functional. The documentation has also been reviewed to ensure it provides clear and comprehensive guidance on data collection, organization, availability, and ethical considerations.
+
+7.**Ethical Considerations and Limitations:** We appreciate the suggestion to bring discussions of limitations and ethical considerations into the main paper. These discussions have been integrated into the appropriate sections, ensuring that readers are fully informed of any potential constraints or ethical considerations associated with the dataset.
+
